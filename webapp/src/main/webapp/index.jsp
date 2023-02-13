@@ -8,7 +8,7 @@
 <h1>DevOps Workshop On AWS </h1> 
     
     
-    <h1> CI/CD Architecture – Project 2 </h1>
+    <h1> CI/CD Architecture  Project 2 </h1>
     <h2> Developers Writes the Code
  Push the code the Central repo
 which is GIT
@@ -17,8 +17,12 @@ Build and TEST, and uplod to S3 bucket.
       Finally Deployed to Server using the Jenkis Plugin </h2>
 
     
-    <h2>User’s now will be able to see the
+    <h2>Users now will be able to see the
 new Change</h2>
+    
+    
+    
+        <h2>New change v 1.2.3.4.5</h2>
   
   </div>
 </body>
