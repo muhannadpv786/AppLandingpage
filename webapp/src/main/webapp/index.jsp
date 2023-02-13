@@ -14,8 +14,10 @@
 which is GIT
 The Code is fetched by Jenkins to
 Build and TEST, and uplod to S3 bucket.
-Finally Deployed to Server
-User’s now will be able to see the
+      Finally Deployed to Server using the Jenkis Plugin </h2>
+
+    
+    <h2>User’s now will be able to see the
 new Change</h2>
   
   </div>
