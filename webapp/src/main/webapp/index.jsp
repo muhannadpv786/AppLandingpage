@@ -8,12 +8,12 @@
 <h1>DevOps Workshop On AWS </h1> 
     
     
-    <h1> CI/CD Architecture – Project 1 </h1>
+    <h1> CI/CD Architecture – Project 2 </h1>
     <h2> Developers Writes the Code
  Push the code the Central repo
 which is GIT
 The Code is fetched by Jenkins to
-Build and TEST
+Build and TEST, and uplod to S3 bucket.
 Finally Deployed to Server
 User’s now will be able to see the
 new Change</h2>
